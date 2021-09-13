@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/patrick-schneider-mFnbFaCIu1I-unsplash.jpg
-    background_image_opacity: 20
+    background_image_opacity: 25
     content: |
       # Best home decorations for you!
 
