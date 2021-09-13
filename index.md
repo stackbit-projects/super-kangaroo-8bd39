@@ -8,9 +8,9 @@ sections:
     background_image: images/patrick-schneider-mFnbFaCIu1I-unsplash.jpg
     background_image_opacity: 25
     content: |
-      # Best home decorations for you!
+      # Home decor for night!
 
-      Artificial flowers, night lamps, humidifier and more!
+      Because beautiful night is what you deserve.
     actions:
       - title: See all items
         url: /store
