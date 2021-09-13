@@ -12,7 +12,7 @@ sections:
 
       Because beautiful night is what you deserve.
     actions:
-      - title: See all items
+      - title: Explore all items
         url: /store
         arrow: true
         style: primary
