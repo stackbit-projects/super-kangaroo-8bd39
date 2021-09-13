@@ -43,7 +43,7 @@ sections:
           our new home. Nightyhome was our one stop place to spice up our
           nights!
       - author:
-          name: Major Payne
+          name: Wismad ghuman
           location: 'VA, USA'
         text: >-
           I was setting up a new cafe in hometown in Raipur. Nightyhome has
