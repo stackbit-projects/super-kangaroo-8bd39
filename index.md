@@ -44,7 +44,7 @@ sections:
           nights!
       - author:
           name: Wismad ghuman
-          location: 'VA, USA'
+          location: 'ambala, Punjab'
         text: >-
           I was setting up a new cafe in hometown in Ambala. Nightyhome has
           excellent items. Took care of almost 40% of all decor items. Dont go
