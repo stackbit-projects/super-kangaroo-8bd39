@@ -46,7 +46,7 @@ sections:
           name: Wismad ghuman
           location: 'VA, USA'
         text: >-
-          I was setting up a new cafe in hometown in Raipur. Nightyhome has
+          I was setting up a new cafe in hometown in Ambala. Nightyhome has
           excellent items. Took care of almost 40% of all decor items. Dont go
           by their name, decor would work for day too!
   - type: promotion_section
