@@ -36,7 +36,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: Ankit podar
           location: 'Colorado, USA'
         text: >-
           Me and my wife recently got married and we were looking to beautify
