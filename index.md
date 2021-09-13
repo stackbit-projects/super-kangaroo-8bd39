@@ -52,7 +52,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new refreshing look for nights!
-    subtitle: from $149.99
+    subtitle: from 200Rs
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
