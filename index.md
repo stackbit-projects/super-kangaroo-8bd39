@@ -37,7 +37,7 @@ sections:
     testimonials:
       - author:
           name: Ankit podar
-          location: 'Colorado, USA'
+          location: 'Bangalore, karnataka'
         text: >-
           Me and my wife recently got married and we were looking to beautify
           our new home. Nightyhome was our one stop place to spice up our
