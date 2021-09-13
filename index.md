@@ -46,8 +46,9 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          I was setting up a new cafe in hometown in Raipur. Nightyhome has
+          excellent items. Took care of almost 40% of all decor items. Dont go
+          by their name, decor would work for day too!
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
