@@ -51,7 +51,7 @@ sections:
           by their name, decor would work for day too!
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: A new refreshing look for nights!
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
